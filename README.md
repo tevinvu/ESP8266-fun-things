@@ -2,7 +2,7 @@
 Learn how to use and build fun projects on ESP8266
 
 This File can run on Arduino IDE
-1. Connect your Adafruit ESP82266 Huzzah by watch this helpful video: https://www.youtube.com/watch?v=G6CqvhXpBKM&list=PLNFq0T6Z3JPsMWtVgmqPnpIu41LNMDPiA&index=5
+1. Connect your Adafruit ESP82266 Huzzah to macbook pro by watch this helpful video: https://www.youtube.com/watch?v=G6CqvhXpBKM&list=PLNFq0T6Z3JPsMWtVgmqPnpIu41LNMDPiA&index=5
 2. Open file with Arduino IDE
 3. Change ssid to be your WiFi Name
 4. Change password to be your WiFi password
