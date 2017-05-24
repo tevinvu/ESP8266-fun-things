@@ -1,4 +1,5 @@
 # ESP8266-fun-things
+This project made to use web browser to control to turn on/off the red led on ESP8266 Huzzah and blink red and blue led 5 times on ESP8266 Huzzah
 Learn how to use and build fun projects on ESP8266
 
 This File can run on Arduino IDE
